@@ -24,6 +24,14 @@ Frontend Technologies: HTML5, CSS3, JavaScript
 Outcome:
 Successfully developed and deployed a fully functional quiz application that provides users with a rich interactive experience. The application included features such as timed quizzes, instant feedback, and detailed score reports. Received positive feedback from users for its intuitive design and smooth performance.
 
+output:
+![Screenshot (24)](https://github.com/user-attachments/assets/aef8db24-841c-4496-ac65-b0fee7c22624)
+![Screenshot (25)](https://github.com/user-attachments/assets/731543a6-6020-4864-90ef-36f7aa3bd91a)
+![Screenshot (26)](https://github.com/user-attachments/assets/17be1d26-8579-4648-8cff-62e95044f989)
+
+
+
+
 Skills Gained:
 
 Advanced skills in frontend development and user interface design
